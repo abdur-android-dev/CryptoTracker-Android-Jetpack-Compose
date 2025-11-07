@@ -115,7 +115,7 @@ API_KEY="your_api_key_here"</code></pre>
   <li>
     <a href="https://pro.coincap.io/api-docs" target="_blank" rel="noopener noreferrer">
       Coincap API
-    </a> (or your chosen API) for market data.
+    </a>
   </li>
 </ul>
 
